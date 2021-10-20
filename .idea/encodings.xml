@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/PMOOC01-02/src/sugar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PMOOC01-02/src/sugar/enumtype/DayTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PMOOC01-03/src/sugar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PMOOC01-03/src/sugar/importstatic/BadImportStaticTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PMOOC01-03/src/sugar/variablearguments/VariableArgumentTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PMOOC03-01/src/A.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMOOC03-01/src/B.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMOOC03-01/src/C.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMOOC03-01/src/ObjectCreate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMOOC03-01/src/Tiger.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
